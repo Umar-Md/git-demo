@@ -1,3 +1,5 @@
 install git in git-scm.com
 
 commit the changes
+
+git gui& gitk
