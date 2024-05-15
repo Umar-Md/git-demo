@@ -1,5 +1,9 @@
-install git in git-scm.com
+install git  git-scm.com
 
 commit the changes
 
 git gui& gitk
+
+git checkout
+
+add something
