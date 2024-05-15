@@ -1,1 +1,3 @@
 install git in git-scm.com
+
+commit the changes
