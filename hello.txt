@@ -4,8 +4,8 @@ commit the changes
 
 git gui& gitk
 
-git checkout
-----------------
+ checkout
+
 
 git commit --amend
 git gui, then select the amend last commit checkbox
