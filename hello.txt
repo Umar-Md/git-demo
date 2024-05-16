@@ -9,3 +9,6 @@ git checkout
 git revert
 ----------------
 git 
+
+git commit --amend
+git gui, then select the amend last commit checkbox
